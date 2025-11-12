@@ -30,3 +30,5 @@
 - 代码库 [Beyond-NanoGPT” (bridges nanoGPT → research techniques)](https://github.com/tanishqkumar/beyond-nanogpt?utm_source=chatgpt.com)
 
 
+### Subsequently: reinforcement learning
+
