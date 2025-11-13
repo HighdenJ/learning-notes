@@ -1,12 +1,11 @@
 
 
-### DL基础知识
-- 课本
-    - [Dive into Deep Learning](https://d2l.ai/)
+### 1. DL基础知识
+- [Karpathy 视频](https://karpathy.ai/zero-to-hero.html)
+- [Dive into Deep Learning 课本](https://d2l.ai/)
 
 
-- 视频
-    - [Karpathy 视频](https://karpathy.ai/zero-to-hero.html?utm_source=chatgpt.com)
+
 
 
 ### NLP 知识：
@@ -32,3 +31,4 @@
 
 ### Subsequently: reinforcement learning
 
+### Subsequently: reasoning model 
