@@ -32,3 +32,10 @@
 ### Subsequently: reinforcement learning
 
 ### Subsequently: reasoning model 
+
+
+### subsequent: ML/DL learning 
+
+cmu 11785 class
+
+cs 336
