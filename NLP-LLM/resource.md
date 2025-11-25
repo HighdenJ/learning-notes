@@ -1,16 +1,13 @@
 
 
-### 1. DL基础知识
+### DL基础知识
 - [Karpathy 视频](https://karpathy.ai/zero-to-hero.html)
 - [Dive into Deep Learning 课本](https://d2l.ai/)
 
 
-
-
-
 ### NLP 知识：
-- [Stanford CS224 公开课](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) 前1-8课
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/?utm_source=chatgpt.com)
+- Open course: [Stanford CS224](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) 前1-8课
+- Textbook: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/?utm_source=chatgpt.com)
 
 
 ### Transformer architecture & BERT-style models
