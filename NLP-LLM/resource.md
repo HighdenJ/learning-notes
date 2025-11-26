@@ -1,7 +1,23 @@
 
 
-### DL基础知识
-- [Karpathy 视频](https://karpathy.ai/zero-to-hero.html)
+### Deep Learning Basics
+- Karpathy's Tutorial [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) Lesson 1-6
+
+
+### NLP / LLM
+- Karpathy's Tutorial [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) Lesson 7-8
+
+
+
+
+## Subsequently
+
+to be watched video 
+[2023 Nov Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+[2025 Feb Deep Dive into LLMs like ChatGPT (Karparthy)](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+
+### Deep Learning Basics
 - [Dive into Deep Learning 课本](https://d2l.ai/)
 
 
