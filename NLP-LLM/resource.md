@@ -1,20 +1,21 @@
 
 
+## Finished
+
 ### Deep Learning Basics
-- Karpathy's Tutorial [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) Lesson 1-6
+- Karparthy's Tutorial [Neural Networks: Zero to Hero](https://github.com/Karparthy/nn-zero-to-hero) Lesson 1-6
 
 
 ### NLP / LLM
-- Karpathy's Tutorial [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) Lesson 7-8
+- Karparthy's Tutorial [Neural Networks: Zero to Hero](https://github.com/Karparthy/nn-zero-to-hero) Lesson 7-8
+- [Karparthy: Intro to Large Language Models (2023)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 
 
 
-## Subsequently
+## To be Watched
 
-to be watched video 
-[2023 Nov Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-[2025 Feb Deep Dive into LLMs like ChatGPT (Karparthy)](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+[Karparthy: Deep Dive into LLMs like ChatGPT (2025)](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 
 ### Deep Learning Basics
@@ -37,8 +38,8 @@ to be watched video
 
 ### GPT-style decoder-only LMs & “real” LLM tooling
 
-- [Karpathy 视频](https://karpathy.ai/zero-to-hero.html?utm_source=chatgpt.com)
-- 代码库 [nanoGPT (Karpathy)](https://github.com/karpathy/nanoGPT?utm_source=chatgpt.com) train a GPT-2-style model on your own data
+- [Karparthy 视频](https://Karparthy.ai/zero-to-hero.html?utm_source=chatgpt.com)
+- 代码库 [nanoGPT (Karparthy)](https://github.com/Karparthy/nanoGPT?utm_source=chatgpt.com) train a GPT-2-style model on your own data
 - 代码库 [Beyond-NanoGPT” (bridges nanoGPT → research techniques)](https://github.com/tanishqkumar/beyond-nanogpt?utm_source=chatgpt.com)
 
 
