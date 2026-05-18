@@ -11,7 +11,10 @@
 - Karpathy's talk [Intro to Large Language Models (2023)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - Karpathy's talk [Deep Dive into LLMs like ChatGPT (2025)](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
-  
+
+---
+---
+
 
 ## To be Watched
 
@@ -21,7 +24,10 @@
 
 ### NLP：
 - Open course: [Stanford CS224](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D) 前1-8课
+
 - Textbook: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/?utm_source=chatgpt.com)
+
+- [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 
 ### Transformer architecture & BERT-style models
